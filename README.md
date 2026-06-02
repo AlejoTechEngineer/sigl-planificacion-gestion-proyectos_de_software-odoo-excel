@@ -5,7 +5,7 @@
 
 ---
 
-**Asignatura:** Integración de Sistemas de Información  
+**Asignatura:** Integración de Sistemas  
 **Institución:** Fundación Universitaria Internacional de La Rioja (UNIIR)  
 **Programa:** Ingeniería Informática  
 **Profesor:** Ing. Edwin Eduardo Millán Rojas  
@@ -409,5 +409,5 @@ El archivo `Lab2_Planificacion_SIGL.xlsx` contiene **3 hojas de trabajo intercon
 
 ---
 
-*Laboratorio No. 2 — Integración de Sistemas de Información — UNIR — 2026*  
+*Laboratorio No. 2 — Integración de Sistemas — UNIR — 2026*  
 *Alejandro De Mendoza — alejandro.mendoza.techengineer@gmail.com*
