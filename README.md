@@ -1,7 +1,13 @@
+<div align="center">
+
 # Laboratorio No. 2 — Planificación y Gestión de Proyectos de Software
 
 > **SIGL — Sistema de Información para Gestión Logística**  
 > Planificación integral mediante Odoo Projects + Microsoft Excel con análisis CPM
+
+</div>
+
+---
 
 ---
 
@@ -411,3 +417,12 @@ El archivo `Lab2_Planificacion_SIGL.xlsx` contiene **3 hojas de trabajo intercon
 
 *Laboratorio No. 2 — Integración de Sistemas — UNIR — 2026*  
 *Alejandro De Mendoza — alejandro.mendoza.techengineer@gmail.com*
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
