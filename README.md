@@ -42,22 +42,6 @@
 
 ---
 
-## Arquitectura
-
-```mermaid
-flowchart TD
-    A[SIGL - Sistema de Informacion para Gestion Logistica] --> B[Odoo Projects - axentdev.odoo.com]
-    A --> C[Microsoft Excel - Lab2_Planificacion_SIGL.xlsx]
-    B --> D[18 Actividades en 7 Fases - Jun 2026 a Feb 2028]
-    C --> E[Tabla de Planificacion]
-    C --> F[Diagrama de Gantt Visual]
-    C --> G[Recursos Humanos - 11 personas / 10 perfiles]
-    D --> H[Metodo CPM - Camino Critico]
-    H --> I[Analisis de Holguras - Resolucion de conflictos]
-    D --> J[Tareas.pdf - Reporte Gantt mensual desde Odoo]
-    I --> K[Presupuesto: $638M COP / 4200 horas totales]
-```
-
 ## Descripción del Laboratorio
 
 El presente laboratorio corresponde a la **Actividad No. 2** de la asignatura Integración de Sistemas de Información. Desarrolla la **planificación integral** del proyecto *Sistema de Información para Gestión Logística (SIGL)*, aplicando principios de administración de proyectos y utilizando como herramientas principales **Odoo Projects** y **Microsoft Excel**.
@@ -73,6 +57,22 @@ El objetivo central es estructurar, organizar y programar las 18 actividades nec
 Este laboratorio parte de los resultados del **Laboratorio No. 1**, donde se definieron los requerimientos, el equipo humano y el presupuesto total del proyecto.
 
 ---
+
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[SIGL - Sistema de Informacion para Gestion Logistica] --> B[Odoo Projects - axentdev.odoo.com]
+    A --> C[Microsoft Excel - Lab2_Planificacion_SIGL.xlsx]
+    B --> D[18 Actividades en 7 Fases - Jun 2026 a Feb 2028]
+    C --> E[Tabla de Planificacion]
+    C --> F[Diagrama de Gantt Visual]
+    C --> G[Recursos Humanos - 11 personas / 10 perfiles]
+    D --> H[Metodo CPM - Camino Critico]
+    H --> I[Analisis de Holguras - Resolucion de conflictos]
+    D --> J[Tareas.pdf - Reporte Gantt mensual desde Odoo]
+    I --> K[Presupuesto: $638M COP / 4200 horas totales]
+```
 
 ## Contenido del Repositorio
 
